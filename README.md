@@ -8,6 +8,8 @@ Similarly, the vector strives to encode abbreviations and acronyms in a useful w
 The two test uses here were:
 
 1 - mapping Kaggle's college basketball team name list to SportsReference's list
+
+
 2 - training a SVM on a number of protein names to see how separable they are from regular English text
 
 
